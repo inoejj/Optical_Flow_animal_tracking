@@ -1,6 +1,6 @@
 # Optical Flow animal tracking
 
-[Optical flow](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_video/py_lucas_kanade/py_lucas_kanade.html) to classify behavior based on movement and direction. Optical flow can be used as a feature point in behavior tracking (supervised machine learning) 
+[Optical flow](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_video/py_lucas_kanade/py_lucas_kanade.html) is used to classify behavior based on movement and direction. Optical flow can be used as a feature point in supervised machine learning.
 
 ![Opticalflow Demo](images/opticalflow.gif)
 
